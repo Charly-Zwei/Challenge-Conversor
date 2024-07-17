@@ -1,4 +1,4 @@
-# Conversor de Moneda ![Estado](https://img.shields.io/badge/estado-finalizado-brightgreen)
+# Conversor de Moneda ![Estado: ](https://img.shields.io/badge/estado-finalizado-brightgreen)
 
 ---
 
@@ -22,18 +22,4 @@ El Conversor de Moneda puede ser utilizado para:
 - **Inversionistas**: Mantenerse informados sobre las tasas de cambio actuales.
 - **Estudiantes**: Aprender sobre economía y tasas de cambio de manera práctica.
 
-## Instalación y Uso
-
-1. **Clonar el repositorio**: `git clone https://github.com/tu_usuario/conversor-de-moneda.git`
-2. **Abrir el proyecto en IntelliJ IDEA**.
-3. **Agregar la dependencia de Gson** al archivo `pom.xml` o descargar la librería y agregarla manualmente.
-4. **Configurar la API Key**: Obtén una API key de ExchangeRate-API y configúrala en el archivo de configuración del proyecto.
-5. **Ejecutar la aplicación**.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o realiza un pull request con tus cambios.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+## Gracias
